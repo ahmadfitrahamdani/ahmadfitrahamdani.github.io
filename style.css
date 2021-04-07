@@ -1,0 +1,15 @@
+.jumbotron {
+    padding: 7rem 1rem;
+}
+
+li {
+    list-style-type: none;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+footer {
+    background-color: #212529;
+}
